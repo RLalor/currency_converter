@@ -1,0 +1,1 @@
+A good currency converter but you'll need to go to https://freecurrencyapi.com/ and add your own API key into the variable in the code. Everything else should work although I didn't use it for a long time.
